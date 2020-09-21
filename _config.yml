@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research into psychosis, dopamine, and brain networks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rob-mccutcheon
+twitter_username: rob_mccutcheon
 github_username:  rob-mccutcheon
 
 # Build settings
