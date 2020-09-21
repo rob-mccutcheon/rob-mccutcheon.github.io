@@ -21,16 +21,21 @@ McCutcheon RA, Jauhar S, Pepper F et al. (2020) The Topography of Striatal Dopam
 <a href="/publications/pdfs/bpsychcnni_2020.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA, Krystal J, Howes O (2020) Dopamine and Glutamate in Schizophrenia: Biology, Symptoms and Treatment World Psychiatry, 19, 15-33
+<a href="/publications/pdfs/world_psych_2020.pdf" target="_blank">PDF.</a>
 
-Guo X*, McCutcheon RA*, Pillinger T et al (2020) The Magnitude and Heterogeneity of Antidepressant Response in Depression: A Meta-analysis of over 45,000 patients Journal of Affective Disorders, 276, 991-1000 * Joint First Author
+Guo X*, McCutcheon RA*, Pillinger T et al (2020) The Magnitude and Heterogeneity of Antidepressant Response in Depression: A Meta-analysis of over 45,000 patients Journal of Affective Disorders, 276, 991-1000
+<a href="/publications/pdfs/jad_2020.pdf" target="_blank">PDF.</a>
 
 Rogdaki M, Gudbrandsen M, McCutcheon RA et al., (2020)  Magnitude and heterogeneity of brain structural abnormalities in 22q11.2 Deletion Syndrome: A meta-analysis Mol Psychiatry, doi.: 10.1038/s41380-019-0638-3
+<a href="/publications/pdfs/molecpsych_2020.pdf" target="_blank">PDF.</a>
 
 Kaar SJ, Natesan S, McCutcheon RA et al., (2020) Antipsychotics: Mechanisms underlying clinical response and side effects and novel treatment approaches based on pathophysiology Neuropharmacology, 172, 107704
+<a href="/publications/pdfs/neuropsychopharm_2020.pdf" target="_blank">PDF.</a>
 
-Meyer N., Faulkner S., McCutcheon RA. et al., (2020)  Sleep and Circadian Rhythm Disturbance in Remitted Schizophrenia and Bipolar Disorder: a Systematic Review and Meta-Analysis Scz Bull (In Press)
+Meyer N., Faulkner S., McCutcheon RA. et al., (2020)  Sleep and Circadian Rhythm Disturbance in Remitted Schizophrenia and Bipolar Disorder: a Systematic Review and Meta-Analysis Scz Bull
+<a href="/publications/pdfs/meyer_sleep_2020.pdf" target="_blank">PDF.</a>
 
-Musa S, McCutcheon RA et al., (2020) Cannabis use linked to altered functional connectivity of the visual and attentional networks in patients with psychosis and controls Scz Bull Open (In Press)
+Musa S, McCutcheon RA et al., (2020) Cannabis use linked to altered functional connectivity of the visual and attentional networks in patients with psychosis and controls Scz Bull Open
 
 Hindley G, Beck K, Borgan F, Ginestet C, McCutcheon RA et al., (2020) Psychiatric symptoms caused by cannabis constituents: a systematic review and meta-analysis Lancet Psychiatry (In press)
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">PDF.</a>
