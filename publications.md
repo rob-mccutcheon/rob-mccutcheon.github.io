@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+<a href="https://scholar.google.co.uk/citations?user=MpA_HXkAAAAJ&hl=en" target="_blank">Google Scholar profile.</a>
 
-
-2020
+<h1>2020</h1>
 
 McCutcheon RA (2020) Disentangling Relapse and Adherence in Psychosis Lancet Psychiatry (In press)
 
@@ -29,14 +29,7 @@ Meyer N., Faulkner S., McCutcheon RA. et al., (2020)  Sleep and Circadian Rhythm
 Musa S, McCutcheon RA et al., (2020) Cannabis use linked to altered functional connectivity of the visual and attentional networks in patients with psychosis and controls Scz Bull Open (In Press)
 
 Hindley G, Beck K, Borgan F, Ginestet C, McCutcheon RA et al., (2020) Psychiatric symptoms caused by cannabis constituents: a systematic review and meta-analysis Lancet Psychiatry (In press)
-<a href="pdfs/hindley_thc_meta.pdf" target="_blank">PDF.</a>
-
-test1
-<a href="https://rob-mccutcheon.github.io/pdfs/hindley_thc_meta.pdf" target="_blank">PDrF.</a>
-
-test2
-<a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">PDrF2.</a>
-
+<a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">PDF.</a>
 
 Beck K, Hindley G, Borgan F, Ginestet C, McCutcheon RA. et al (2020) Association of Ketamine With Psychiatric Symptoms and Implications for Its Therapeutic Use and for Understanding Schizophrenia: A Systematic Review and Meta-analysis JAMA Network open (In press)
 
@@ -44,7 +37,7 @@ Howes OD, Bonoldi I, McCutcheon RA  et al. (2020) Glutamatergic and dopaminergic
 to outcome in people at clinical high risk of psychosis: a multimodal PET-MR brain imaging study Neuropsychopharmacology, 45(4), 641-648
 
 	
-2019	
+<h1>2019</h1>
 
 McCutcheon RA, Pillinger T, Mizuno Y et al. (2019) The Efficacy and Heterogeneity of Antipsychotic Response in Schizophrenia: A Meta-analysis Mol Psychiatry, doi: 10.1038/s41380-019-0502-5
 
