@@ -36,16 +36,18 @@ Meyer N., Faulkner S., McCutcheon RA. et al., (2020)  Sleep and Circadian Rhythm
 <a href="/publications/pdfs/meyer_sleep_2020.pdf" target="_blank">PDF.</a>
 
 Musa S, McCutcheon RA et al., (2020) Cannabis use linked to altered functional connectivity of the visual and attentional networks in patients with psychosis and controls Scz Bull Open
+<a href="/publications/pdfs/musa_2020.pdf" target="_blank">PDF.</a>
 
 Hindley G, Beck K, Borgan F, Ginestet C, McCutcheon RA et al., (2020) Psychiatric symptoms caused by cannabis constituents: a systematic review and meta-analysis Lancet Psychiatry (In press)
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">PDF.</a>
 
-Beck K, Hindley G, Borgan F, Ginestet C, McCutcheon RA. et al (2020) Association of Ketamine With Psychiatric Symptoms and Implications for Its Therapeutic Use and for Understanding Schizophrenia: A Systematic Review and Meta-analysis JAMA Network open (In press)
+Beck K, Hindley G, Borgan F, Ginestet C, McCutcheon RA. et al (2020) Association of Ketamine With Psychiatric Symptoms and Implications for Its Therapeutic Use and for Understanding Schizophrenia: A Systematic Review and Meta-analysis JAMA Network open
+<a href="/publications/pdfs/beck2020.pdf" target="_blank">PDF.</a>
 
 Howes OD, Bonoldi I, McCutcheon RA  et al. (2020) Glutamatergic and dopaminergic function and the relationship
 to outcome in people at clinical high risk of psychosis: a multimodal PET-MR brain imaging study Neuropsychopharmacology, 45(4), 641-648
 
-	
+<br/>	
 <h1>2019</h1>
 
 McCutcheon RA, Pillinger T, Mizuno Y et al. (2019) The Efficacy and Heterogeneity of Antipsychotic Response in Schizophrenia: A Meta-analysis Mol Psychiatry, doi: 10.1038/s41380-019-0502-5
@@ -73,3 +75,65 @@ Borgan, F., Jauhar S., McCutcheon, RA., et al., (2019) Glutamate levels in the a
 Borgan F, Beck K, Butler E, McCutcheon RA et al., (2019) The effects of cannabinoid 1 receptor compounds on memory: a meta-analysis and systematic review across species Psychopharmacology, doi:10.1007/s00213-019-05283-3
 
 Rogdaki M, Hathway P, Gudbrandsen M, McCutcheon RA et al., (2019) Glutamatergic function in a genetic high-risk group for psychosis: A proton magnetic resonance spectroscopy study in individuals with 22q11.2 deletion Eur. Neuropsychopharmacol, doi: 10.1016/j.euroneuro.2019.09.005
+
+<br/>
+<h1>2018</h1>
+
+McCutcheon R, Bloomfield M, Dahoun T, Mehta M, Howes O (2018) Chronic psychosocial stressors are associated with alterations in salience processing and corticostriatal connectivity Schizophr Res, doi: 10.1016/j.schres.2018.12.011
+
+McCutcheon R, Bloomfield M, Dahoun T, Quinlan M, Terbeck S, Mehta M, Howes O (2018) Amygdala reactivity in ethnic minorities and its relationship to the social environment: an fMRI study Psychol Med, doi: 10.1017/S0033291717003506
+-	Awarded the Royal Society of Medicine’s Mental Health Paper of the Year
+
+McCutcheon R, Beck K, Jauhar S, Howes O (2018) Defining the Locus of Dopaminergic Dysfunction in Schizophrenia: A Meta-analysis and Test of the Mesolimbic Hypothesis Schizophr Bull, doi: 10.1093schbul/sbx180
+
+McCutcheon R, Beck K, D’Ambrosio E et al.  (2018) Antipsychotic plasma levels in the assessment of poor treatment response in schizophrenia  Acta Psychiatr. Scand, 137(1) 39-46
+
+Jauhar S*, McCutcheon R*, Borgan F et al. (2018) The relationship between cortical glutamate and striatal dopamine function in psychosis: a multi-modal PET and MRS imaging study in first episode psychosis Lancet Psychiatry, 5(10) 816-823 *Joint First Author
+
+Pillinger T, D’Ambrosio E, McCutcheon R, Howes O (2018) Is psychosis a multi-system disorder? A meta-review of central nervous system, immune, cardiometabolic, and endocrine alterations in first episode psychosis and perspective on potential models Mol. Psychiatry, doi: 10.1038/s41380-018-0058-9
+	
+Pillinger, T., Osimo, E. F., Brugger, S., Mondelli, V., McCutcheon, R. A. et al. (2018) A meta-analysis of immune parameters, variability and assessment of modal distribution in psychosis and test of the immune sub-group hypothesis Schizophr Bull, doi: 10.1093/schbul/sby160
+
+Nour MM, McCutcheon RA, Howes OD. (2018) The relationship between dopamine synthesis capacity and release: implications for psychosis. Neuropsychopharmacology, 43(6) 1195-1196
+
+<br/>	
+<h1>2017</h1>
+
+Howes O, McCutcheon R. (2017) Inflammation and the neural diathesis-stress hypothesis of schizophrenia: a reconceptualization. Transl Psychiatry, 7(2) e1024
+
+Howes O, McCutcheon R et al. (2017) Treatment resistant schizophrenia: Treatment Response and Resistance in Psychosis (TRRIP) working group consensus guidelines on diagnosis and terminology Am J Psychiatry, 174(3), 216-229
+
+Howes O, McCutcheon R, Owen M, Murray R (2017) The role of genes, stress and dopamine in the development of schizophrenia Biol Psychiatry, 81(1), 9-20
+	
+<br/>	
+<h1>2016</h1>	
+
+Mouchilianitis E*, McCutcheon R*, Howes O (2016) Brain imaging studies of treatment-resistant schizophrenia: a systematic review Lancet Psychiatry, 3(5), 451-463 * Joint First Author
+
+Rogdaki M, Jauhar S, McCutcheon R, Howes O (2016) Treatment resistant schizophrenia in a patient with 17q12 duplication Biol Psychiatry,  80(4)19-20
+<br/>	
+<h1>2015</h1>	
+	
+McCutcheon R, Beck K, Bloomfield MAP, Marques TR, Howes OD (2015) Treatment resistant or resistant to treatment? Antipsychotic adherence in patients with poorly controlled psychotic symptoms J Psychopharm, 29(8), 892-897
+
+Corbet Burcher G, McCutcheon R (2015) Methodology of the SEYLE trial on suicide prevention in schools. The Lancet, 386(9996), 853-854 
+
+Terbeck S, Kahane G, McTavish S, McCutcheon R, Hewstone M, Savlescu J, Cowen P, Norbury, R (2015) β Adrenoceptor blockade modulates fusiform gyrus activity to black versus white faces Psychopharmacology, doi: 10.1007/s00213-015-3929-7
+
+Howes OD, McCutcheon R, Stone JM (2015) Glutamate and dopamine in schizophrenia: an update for the 21st century. J Psychopharm, 29(2), 97-115 
+	
+<br/>	
+<h1>2014</h1>		
+McCutcheon R (2014) The Diagnosis Debate The Lancet Psychiatry, 1(7), 438
+
+Beck K*, McCutcheon R* et al.,  (2014) The practical management of refractory schizophrenia- the Maudsley TREAT service approach Acta Psych Scand, 130(6),427-438 * Joint First Author
+
+Murray E, Brouwer S, McCutcheon R, Harmer CJ, Cowen PJ, McCabe C (2014) Opposing effects of naltrexone on rewarding and aversive food stimuli: Implications for the treatment of obesity. Psychopharmacology (Berl), 231(22),4323-4335
+
+<br/>	
+<h1>2013</h1>	
+McCutcheon R (2013) Community treatment orders for patients with psychosis. The Lancet, 382 (9891), 501.
+
+McCutcheon RA (2013) Commissions, coercion and choice. The Psychiatrist, 37(5), 179-179
+
+McCutcheon R, Fear NT, Lee WE, Wessely S ( 2013) Letter to the Editor Journal of Anxiety Disorders, 27(5)543 
