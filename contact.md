@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /publications/
 ---
 
-2020
-
-2019
-
+To discuss
