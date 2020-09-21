@@ -8,13 +8,17 @@ permalink: /publications/
 
 <h1>2020</h1>
 
-McCutcheon RA (2020) Disentangling Relapse and Adherence in Psychosis Lancet Psychiatry (In press)
+McCutcheon RA (2020) Disentangling Relapse and Adherence in Psychosis Lancet Psychiatry
+<a href="/publications/pdfs/lancet_relapse.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA, Marques T, Howes O (2020) Schizophrenia: An Overview JAMA Psychiatry, 77(2), 201-210
+<a href="/publications/pdfs/jama_scz_2020.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA, Marques T, Howes O (2020) Treatment of First-Episode Schizophrenia in a Young Woman JAMA Psychiatry 77(2), 211-212
+<a href="/publications/pdfs/jama_scz_cc_2020.pdf" target="_blank">PDF.</a>
 
-McCutcheon RA, Jauhar S, Pepper F et al. (2020) The Topography of Striatal Dopamine and Symptoms in Psychosis: An Integrative PET and MRI study, Biol. Psychiatry Cogn. Neurosci. Neuroimaging (In press)
+McCutcheon RA, Jauhar S, Pepper F et al. (2020) The Topography of Striatal Dopamine and Symptoms in Psychosis: An Integrative PET and MRI study, Biol. Psychiatry Cogn. Neurosci. Neuroimaging
+<a href="/publications/pdfs/bpsychcnni_2020.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA, Krystal J, Howes O (2020) Dopamine and Glutamate in Schizophrenia: Biology, Symptoms and Treatment World Psychiatry, 19, 15-33
 
