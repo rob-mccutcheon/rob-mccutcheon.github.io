@@ -31,7 +31,9 @@ Musa S, McCutcheon RA et al., (2020) Cannabis use linked to altered functional c
 Hindley G, Beck K, Borgan F, Ginestet C, McCutcheon RA et al., (2020) Psychiatric symptoms caused by cannabis constituents: a systematic review and meta-analysis Lancet Psychiatry (In press)
 <a href="rob-mccutcheon.github.io/pdf/hindley_thc_meta.pdf" target="_blank">PDF.</a>
 
+<a href="pdf/hindley_thc_meta.pdf" target="_blank">PDrF.</a>
 
+test
 
 Beck K, Hindley G, Borgan F, Ginestet C, McCutcheon RA. et al (2020) Association of Ketamine With Psychiatric Symptoms and Implications for Its Therapeutic Use and for Understanding Schizophrenia: A Systematic Review and Meta-analysis JAMA Network open (In press)
 
