@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About Mr
-order: 1
+
 ---
 
   <h2>Main Page</h2>
