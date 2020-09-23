@@ -6,8 +6,8 @@ layout: home
 
 ---
 
-<h2>Main Page</h2>
+<h2>Aboute</h2>
 
 Research into dopamine, psychosis and brain networks
 
-5
+![image tooltip here](/images/cover.png)
