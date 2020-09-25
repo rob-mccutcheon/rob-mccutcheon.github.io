@@ -6,8 +6,10 @@ layout: home
 
 ---
 
-<h2>Aboute</h2>
+<h2>About</h2>
 
 Research into dopamine, psychosis and brain networks
 
-![image tooltip here](/images/sidebrains.jpg)
+![image](/images/sidebrains.jpg){: style="float: left"}
+
+And text on the right
