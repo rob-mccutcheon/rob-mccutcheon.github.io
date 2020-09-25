@@ -10,4 +10,4 @@ layout: home
 
 Research into dopamine, psychosis and brain networks
 
-![image tooltip here](/images/cover.png)
+![image tooltip here](/images/sidebrains.jpg)
