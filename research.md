@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-<h1> Dopamine and Psychosis </h1>
+<h1> Dopamine and Psychosis2 </h1>
 
 <h1> Treatment Resistance and Response </h1>
 
