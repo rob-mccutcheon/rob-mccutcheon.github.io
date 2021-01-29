@@ -9,12 +9,13 @@ layout: home
 
 
 ![image](/images/horizontalbrains.jpg){: style="float: left"}
+ 
 <br/><br/>
 <br/><br/>
+<br/><br/><br/><br/>
 <br/><br/>
-Research into psychosiss, 
+Research into psychosis, 
 <br />
-<br/><br/>
 neurochemistry, and 
 <br />
 brain networks
