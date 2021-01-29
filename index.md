@@ -9,13 +9,11 @@ layout: home
 
 
 ![image](/images/horizontalbrains.jpg){: style="float: left"}
-<br>
-<br>
 
+
+<br/><br/>
+Research into psychosis, 
 <br />
-<br />
-Research into dopamine, 
-<br />
-psychosis and 
+neurochemistry, and 
 <br />
 brain networks
