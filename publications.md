@@ -157,7 +157,7 @@ McCutcheon R, Beck K, Bloomfield MAP, Marques TR, Howes OD (2015) Treatment resi
 <a href="/publications/pdfs/plasma2015.pdf" target="_blank">PDF.</a>
 
 Corbet Burcher G, McCutcheon R (2015) Methodology of the SEYLE trial on suicide prevention in schools. The Lancet, 386(9996), 853-854 
-<a href="/publications/pdfs/seyle2015.pdf" target="_blank">PDF.</a>
+<a href="/publications/pdfs/seyle_2015.pdf" target="_blank">PDF.</a>
 
 Terbeck S, Kahane G, McTavish S, McCutcheon R, Hewstone M, Savlescu J, Cowen P, Norbury, R (2015) β Adrenoceptor blockade modulates fusiform gyrus activity to black versus white faces Psychopharmacology, doi: 10.1007/s00213-015-3929-7
 <a href="/publications/pdfs/terbeck_2015.pdf" target="_blank">PDF.</a>
