@@ -6,6 +6,8 @@ permalink: /publications/
 
 <a href="https://scholar.google.co.uk/citations?user=MpA_HXkAAAAJ&hl=en" target="_blank">Google Scholar profile.</a>
 
+All publications downloadable below
+
 <h1>2020</h1>
 
 McCutcheon RA (2020) Disentangling Relapse and Adherence in Psychosis Lancet Psychiatry
@@ -95,21 +97,33 @@ Rogdaki M, Hathway P, Gudbrandsen M, McCutcheon RA et al., (2019) Glutamatergic 
 <h1>2018</h1>
 
 McCutcheon R, Bloomfield M, Dahoun T, Mehta M, Howes O (2018) Chronic psychosocial stressors are associated with alterations in salience processing and corticostriatal connectivity Schizophr Res, doi: 10.1016/j.schres.2018.12.011
+<a href="/publications/pdfs/sczres_2018.pdf" target="_blank">PDF.</a>
+
 
 McCutcheon R, Bloomfield M, Dahoun T, Quinlan M, Terbeck S, Mehta M, Howes O (2018) Amygdala reactivity in ethnic minorities and its relationship to the social environment: an fMRI study Psychol Med, doi: 10.1017/S0033291717003506
 -	Awarded the Royal Society of Medicine’s Mental Health Paper of the Year
+<a href="/publications/pdfs/psych_med_2018.pdf" target="_blank">PDF.</a>
+
 
 McCutcheon R, Beck K, Jauhar S, Howes O (2018) Defining the Locus of Dopaminergic Dysfunction in Schizophrenia: A Meta-analysis and Test of the Mesolimbic Hypothesis Schizophr Bull, doi: 10.1093schbul/sbx180
+<a href="/publications/pdfs/sczbull_2018.pdf" target="_blank">PDF.</a>
+
 
 McCutcheon R, Beck K, D’Ambrosio E et al.  (2018) Antipsychotic plasma levels in the assessment of poor treatment response in schizophrenia  Acta Psychiatr. Scand, 137(1) 39-46
+<a href="/publications/pdfs/acta_2018.pdf" target="_blank">PDF.</a>
 
 Jauhar S*, McCutcheon R*, Borgan F et al. (2018) The relationship between cortical glutamate and striatal dopamine function in psychosis: a multi-modal PET and MRS imaging study in first episode psychosis Lancet Psychiatry, 5(10) 816-823 *Joint First Author
+<a href="/publications/pdfs/lancet_2018.pdf" target="_blank">PDF.</a>
 
 Pillinger T, D’Ambrosio E, McCutcheon R, Howes O (2018) Is psychosis a multi-system disorder? A meta-review of central nervous system, immune, cardiometabolic, and endocrine alterations in first episode psychosis and perspective on potential models Mol. Psychiatry, doi: 10.1038/s41380-018-0058-9
+<a href="/publications/pdfs/molecular_2018.pdf" target="_blank">PDF.</a>
 	
 Pillinger, T., Osimo, E. F., Brugger, S., Mondelli, V., McCutcheon, R. A. et al. (2018) A meta-analysis of immune parameters, variability and assessment of modal distribution in psychosis and test of the immune sub-group hypothesis Schizophr Bull, doi: 10.1093/schbul/sby160
+<a href="/publications/pdfs/pillinger_2018.pdf" target="_blank">PDF.</a>
 
 Nour MM, McCutcheon RA, Howes OD. (2018) The relationship between dopamine synthesis capacity and release: implications for psychosis. Neuropsychopharmacology, 43(6) 1195-1196
+<a href="/publications/pdfs/nour_2018.pdf" target="_blank">PDF.</a>
+
 
 <br/>	
 <h1>2017</h1>
