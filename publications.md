@@ -90,7 +90,7 @@ Borgan F, Beck K, Butler E, McCutcheon RA et al., (2019) The effects of cannabin
 <a href="/publications/pdfs/borgan_2019b.pdf" target="_blank">PDF.</a>
 
 Rogdaki M, Hathway P, Gudbrandsen M, McCutcheon RA et al., (2019) Glutamatergic function in a genetic high-risk group for psychosis: A proton magnetic resonance spectroscopy study in individuals with 22q11.2 deletion Eur. Neuropsychopharmacol, doi: 10.1016/j.euroneuro.2019.09.005
-<a href="/publications/pdfs/rogdaki_2019b.pdf" target="_blank">PDF.</a>
+<a href="/publications/pdfs/rogdaki_2019.pdf" target="_blank">PDF.</a>
 
 
 <br/>
@@ -129,40 +129,62 @@ Nour MM, McCutcheon RA, Howes OD. (2018) The relationship between dopamine synth
 <h1>2017</h1>
 
 Howes O, McCutcheon R. (2017) Inflammation and the neural diathesis-stress hypothesis of schizophrenia: a reconceptualization. Transl Psychiatry, 7(2) e1024
+<a href="/publications/pdfs/translational_2017.pdf" target="_blank">PDF.</a>
+
 
 Howes O, McCutcheon R et al. (2017) Treatment resistant schizophrenia: Treatment Response and Resistance in Psychosis (TRRIP) working group consensus guidelines on diagnosis and terminology Am J Psychiatry, 174(3), 216-229
+<a href="/publications/pdfs/amjpsych_2017.pdf" target="_blank">PDF.</a>
+
 
 Howes O, McCutcheon R, Owen M, Murray R (2017) The role of genes, stress and dopamine in the development of schizophrenia Biol Psychiatry, 81(1), 9-20
+<a href="/publications/pdfs/biol_2017.pdf" target="_blank">PDF.</a>
+
 	
 <br/>	
 <h1>2016</h1>	
 
 Mouchilianitis E*, McCutcheon R*, Howes O (2016) Brain imaging studies of treatment-resistant schizophrenia: a systematic review Lancet Psychiatry, 3(5), 451-463 * Joint First Author
+<a href="/publications/pdfs/lancet_2017.pdf" target="_blank">PDF.</a>
+
 
 Rogdaki M, Jauhar S, McCutcheon R, Howes O (2016) Treatment resistant schizophrenia in a patient with 17q12 duplication Biol Psychiatry,  80(4)19-20
+<a href="/publications/pdfs/rogdaki_2016.pdf" target="_blank">PDF.</a>
+
 <br/>	
 <h1>2015</h1>	
 	
 McCutcheon R, Beck K, Bloomfield MAP, Marques TR, Howes OD (2015) Treatment resistant or resistant to treatment? Antipsychotic adherence in patients with poorly controlled psychotic symptoms J Psychopharm, 29(8), 892-897
+<a href="/publications/pdfs/plasma2015.pdf" target="_blank">PDF.</a>
 
 Corbet Burcher G, McCutcheon R (2015) Methodology of the SEYLE trial on suicide prevention in schools. The Lancet, 386(9996), 853-854 
+<a href="/publications/pdfs/seyle2015.pdf" target="_blank">PDF.</a>
 
 Terbeck S, Kahane G, McTavish S, McCutcheon R, Hewstone M, Savlescu J, Cowen P, Norbury, R (2015) β Adrenoceptor blockade modulates fusiform gyrus activity to black versus white faces Psychopharmacology, doi: 10.1007/s00213-015-3929-7
+<a href="/publications/pdfs/terbeck_2015.pdf" target="_blank">PDF.</a>
+
 
 Howes OD, McCutcheon R, Stone JM (2015) Glutamate and dopamine in schizophrenia: an update for the 21st century. J Psychopharm, 29(2), 97-115 
+<a href="/publications/pdfs/glu_da_2015.pdf" target="_blank">PDF.</a>
+
 	
 <br/>	
 <h1>2014</h1>		
 McCutcheon R (2014) The Diagnosis Debate The Lancet Psychiatry, 1(7), 438
+<a href="/publications/pdfs/lancet_2014.pdf" target="_blank">PDF.</a>
 
 Beck K*, McCutcheon R* et al.,  (2014) The practical management of refractory schizophrenia- the Maudsley TREAT service approach Acta Psych Scand, 130(6),427-438 * Joint First Author
+<a href="/publications/pdfs/treat_2014.pdf" target="_blank">PDF.</a>
 
 Murray E, Brouwer S, McCutcheon R, Harmer CJ, Cowen PJ, McCabe C (2014) Opposing effects of naltrexone on rewarding and aversive food stimuli: Implications for the treatment of obesity. Psychopharmacology (Berl), 231(22),4323-4335
+<a href="/publications/pdfs/naltrexone_2014.pdf" target="_blank">PDF.</a>
 
 <br/>	
 <h1>2013</h1>	
 McCutcheon R (2013) Community treatment orders for patients with psychosis. The Lancet, 382 (9891), 501.
+<a href="/publications/pdfs/octet_2013.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA (2013) Commissions, coercion and choice. The Psychiatrist, 37(5), 179-179
+<a href="/publications/pdfs/coercion_2013.pdf" target="_blank">PDF.</a>
 
 McCutcheon R, Fear NT, Lee WE, Wessely S ( 2013) Letter to the Editor Journal of Anxiety Disorders, 27(5)543 
+<a href="/publications/pdfs/anxiety_2013.pdf" target="_blank">PDF.</a>
