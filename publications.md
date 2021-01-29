@@ -42,39 +42,54 @@ Hindley G, Beck K, Borgan F, Ginestet C, McCutcheon RA et al., (2020) Psychiatri
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">PDF.</a>
 
 Beck K, Hindley G, Borgan F, Ginestet C, McCutcheon RA. et al (2020) Association of Ketamine With Psychiatric Symptoms and Implications for Its Therapeutic Use and for Understanding Schizophrenia: A Systematic Review and Meta-analysis JAMA Network open
-<a href="/publications/pdfs/beck2020.pdf" target="_blank">PDF.</a>
+<a href="/publications/pdfs/beck_2020.pdf" target="_blank">PDF.</a>
 
 Howes OD, Bonoldi I, McCutcheon RA  et al. (2020) Glutamatergic and dopaminergic function and the relationship
 to outcome in people at clinical high risk of psychosis: a multimodal PET-MR brain imaging study Neuropsychopharmacology, 45(4), 641-648
+<a href="/publications/pdfs/howes_2020.pdf" target="_blank">PDF.</a>
 
 <br/>	
 <h1>2019</h1>
 
 McCutcheon RA, Pillinger T, Mizuno Y et al. (2019) The Efficacy and Heterogeneity of Antipsychotic Response in Schizophrenia: A Meta-analysis Mol Psychiatry, doi: 10.1038/s41380-019-0502-5
+<a href="/publications/pdfs/ap_hetero_2019.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA, Nour MM, Dahoun T et al. (2019) Mesolimbic Dopamine Function is Related to Salience Network Connectivity: An Integrative PET and MR Study Biol Psychiatry, 85(5), 368-378
+<a href="/publications/pdfs/mesolimbic_salience.pdf" target="_blank">PDF.</a>
 
 McCutcheon RA, Abi-Dargham A, Howes O (2019) Schizophrenia, Dopamine and the Striatum: From Biology to Symptoms Trends Neurosci, 42(3), 205-220
+<a href="/publications/pdfs/trends_2019.pdf" target="_blank">PDF.</a>
 
 Pillinger T*, McCutcheon RA* et al., (2019) Comparative effects of 18 antipsychotics on metabolic function in schizophrenia, predictors of metabolic dysregulation, and association with psychopathology: a systematic review and network meta-analysis Lancet Psychiatry, 7(1), 64-77 * Joint First Author
+<a href="/publications/pdfs/lancet_pillinger_2019.pdf" target="_blank">PDF.</a>
 
 Bloomfield M, McCutcheon RA, Kempton M et al. (2019) The Effects of Psychosocial Stress on Dopaminergic Function and the Acute Stress Response eLife, 8, e46797
+<a href="/publications/pdfs/elife_2019.pdf" target="_blank">PDF.</a>
 
 Mizuno Y, McCutcheon RA, Brugger S, Howes OD (2019) Heterogeneity and efficacy of antipsychotic treatment for schizophrenia with or without treatment resistance: A meta-analysis Neuropsychopharmacology, doi: 10.1038/s41386-019-0577-3
+<a href="/publications/pdfs/mizuno_2019.pdf" target="_blank">PDF.</a>
 
 Beck K, McCutcheon RA et al. (2019) Prevalence of treatment-resistant psychoses in the community: A naturalistic study J Psychopharm, 33(10),1248-1253
+<a href="/publications/pdfs/beck_2019.pdf" target="_blank">PDF.</a>
 
 Nour MN, Dahoun T, McCutcheon RA et al. (2019) Task-induced functional brain connectivity mediates the relationship between striatal D2/3 receptors and working memory eLife, 8,e45045
+<a href="/publications/pdfs/nour_2019.pdf" target="_blank">PDF.</a>
 
 Dahoun T, Nour MN, McCutcheon RA et al. (2019)  The relationship between childhood trauma, dopamine release and dexamphetamine-induced positive psychotic symptoms: a [11C]-(+)-PHNO PET study Transl. Psychiatry, doi: 10.1038/s41398-019-0627-y
+<a href="/publications/pdfs/dahoun_2019.pdf" target="_blank">PDF.</a>
 
 Pillinger T, Rogdaki M, McCutcheon RA, et al. (2019) Altered glutamatergic response and functional connectivity in treatment resistant schizophrenia: the effect of riluzole and therapeutic implications Psychopharmacology, doi: 10.1007/s00213-019-5188-5
+<a href="/publications/pdfs/pillinger_2019.pdf" target="_blank">PDF.</a>
 
 Borgan, F., Jauhar S., McCutcheon, RA., et al., (2019) Glutamate levels in the anterior cingulate cortex in un-medicated first episode psychosis: a proton magnetic resonance spectroscopy study Scientific Reports 9 (8685)
+<a href="/publications/pdfs/borgan_2019.pdf" target="_blank">PDF.</a>
 
 Borgan F, Beck K, Butler E, McCutcheon RA et al., (2019) The effects of cannabinoid 1 receptor compounds on memory: a meta-analysis and systematic review across species Psychopharmacology, doi:10.1007/s00213-019-05283-3
+<a href="/publications/pdfs/borgan_2019b.pdf" target="_blank">PDF.</a>
 
 Rogdaki M, Hathway P, Gudbrandsen M, McCutcheon RA et al., (2019) Glutamatergic function in a genetic high-risk group for psychosis: A proton magnetic resonance spectroscopy study in individuals with 22q11.2 deletion Eur. Neuropsychopharmacol, doi: 10.1016/j.euroneuro.2019.09.005
+<a href="/publications/pdfs/rogdaki_2019b.pdf" target="_blank">PDF.</a>
+
 
 <br/>
 <h1>2018</h1>
