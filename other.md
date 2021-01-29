@@ -15,3 +15,8 @@ For neuroimaging analysis that requires significant amounts of data processing t
 <h1>Bash scripts for file sorting</h1>
 
 <a href="/other/bash_scripts.html">Bash scripts</a>    
+<br>
+
+<h1>Code profiling</h1>
+
+<a href="/other/code_profiling.html">Bash scripts</a>    
