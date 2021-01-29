@@ -14,4 +14,8 @@ layout: home
 
 <br />
 <br />
-Research into dopamine, psychosis and brain networks
+Research into dopamine, 
+<br />
+psychosis and 
+<br />
+brain networks
