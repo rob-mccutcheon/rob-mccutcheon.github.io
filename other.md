@@ -12,9 +12,8 @@ For neuroimaging analysis that requires significant amounts of data processing t
 <a href="/other/rosalind.html">Rosalind</a>,  <a href="/other/nan.html" >NaN</a>
 
 
-<h1><a href="/other/bash_scripts.html">Bash scripts for file sorting</a></h1>
+<h1><a href="/other/bash_scripts.html">Bash Scripts for File Sorting</a></h1>
 <br>
 
-<h1>Code profiling</h1>
+<h1><a href="/other/code_profiling.html">Code Profiling</a>    </h1>
 
-<a href="/other/code_profiling.html">Bash scripts</a>    
