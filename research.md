@@ -6,6 +6,9 @@ permalink: /research/
 
 <h1> Multimodal neuroimaging </h1>
 
+Relationships between striatal dopamine and <a href="/publications/pdfs/mesolimbic_salience.pdf">resting state connectivity</a>, <a href="/publications/pdfs/lancet_2018.pdf">cortical glutamate</a>
+
+
 <h1> Dopamine and Psychosis </h1>
 
 <h1> The Neurobiology of Enviornmental Risk Factors for Psychosis </h1>
