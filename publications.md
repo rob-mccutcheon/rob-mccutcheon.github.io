@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<a href="https://scholar.google.co.uk/citations?user=MpA_HXkAAAAJ&hl=en" target="_blank">Google Scholar profile1.</a>
+<a href="https://scholar.google.co.uk/citations?user=MpA_HXkAAAAJ&hl=en" target="_blank">Google Scholar profile.</a>
 
 All publications downloadable below
 
