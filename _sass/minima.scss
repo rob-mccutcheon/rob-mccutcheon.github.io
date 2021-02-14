@@ -55,3 +55,41 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+//added
+main p {
+    text-align: justify;
+  }
+  
+  strong {
+    font-weight: 200%;
+  }
+  
+  figure {
+    font-size: $small-font-size;
+  }
+  
+  a, a:visited {
+    color: #0037B3;
+  }
+  
+  .meta {
+    color: $grey-color-light;
+    font-size: $small-font-size;
+  }
+
+  h3 > .post-link {
+    margin: 0px;
+  }
+  
+  main h1, main h2, main h3, main h4 {
+    font-weight: 50%;
+  }
+
+  h3 > .post-link {
+    margin: 0px;
+  }
+  
+  main h1, main h2, main h3, main h4 {
+    font-weight: 50%;
+  }
