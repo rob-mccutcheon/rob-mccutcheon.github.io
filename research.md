@@ -16,7 +16,7 @@ Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz
 
 <h1> The Neurobiology of Enviornmental Risk Factors for Psychosis </h1>
 
-<a href="/publications/pdfs/musa_2020.pdf" target="_blank">Cannabis and functional connectivity in psychosis</a>
+<a href="/publications/pdfs/musa_2020.pdf" target="_blank">Cannabis and functional connectivity in psychosis</a></br>
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a>
 
 
