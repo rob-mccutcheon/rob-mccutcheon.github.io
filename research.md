@@ -12,7 +12,7 @@ Relationships between striatal dopamine and <a href="/publications/pdfs/mesolimb
 
 <h1> The Pathophysiology of Psychosis </h1>
 
-Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz_2020.pdf" target="_blank">1</a>, <a href="/publications/pdfs/world_psych_2020.pdf" target="_blank">2</a>, <a href="/publications/pdfs/trends_2019.pdf" target="_blank">3</a>, biological </br>
+Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz_2020.pdf" target="_blank">1</a>, <a href="/publications/pdfs/world_psych_2020.pdf" target="_blank">2</a>, <a href="/publications/pdfs/trends_2019.pdf" target="_blank">3</a>, <a href="/publications/pdfs/translational_2017.pdf" target="_blank">4</a>, <a href="/publications/pdfs/biol_2017.pdf" target="_blank">5</a><br/>
 <a href="/publications/pdfs/sczbull_2018.pdf" target="_blank"> Where is striatal dopamine dyfunction greatest in schizophrenia?</a><br/>
 <a href="/publications/pdfs/lancet_2018.pdf" target="_blank"> Are striatal doapmine and cortical glutamate linked in psychosis? </a><br/>
 <a href="/publications/pdfs/borgan_2019.pdf" target="_blank"> Glutamate concentrations in first episode psychosis</a><br/>
@@ -32,6 +32,7 @@ Effects of stress on the dopamine system: A review </a> and a <a href="/publicat
 
 <h1> Treatment Resistance and Response </h1>
 Using antipsychotic plasma levels to investigate adherence and treatment resistance: <a href="/publications/pdfs/acta_2018.pdf" target="_blank">1</a>, <br/>
+Defining treatment re
 Investigating response variability in <a href="/publications/pdfs/ap_hetero_2019.pdf" target="_blank">schizophrenia</a>, <a href="/publications/pdfs/mizuno_2019.pdf" target="_blank">treatment resistant schizophrenia </a>, and <a href="/publications/pdfs/jad_2020.pdf" target="_blank">depression</a><br/>
 <a href="/publications/pdfs/beck_2019.pdf" target="_blank">How common is treatment resistant schizophrenia ?</a><br/>
 <a href="/publications/pdfs/pillinger_2019.pdf" target="_blank"> Effects of a novel compound on glutamate, cerebral blood flow, and functioanl connnectivity in treatment resistant schizophrenia </a><br/>
