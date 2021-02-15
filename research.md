@@ -23,7 +23,7 @@ Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz
 <h1> The Neurobiology of Enviornmental Risk Factors for Psychosis </h1>
 <a href="/publications/pdfs/psych_med_2018.pdf" target="_blank"> How amygdala reactivity relates to ethnic minority status and the the social enviornment</a><br/>
 <a href="/publications/pdfs/sczres_2018.pdf" target="_blank">Effects of chronic stress on corticostriatal connectivity and salience processing</a><br/>
-Effects of stress on the dopamine system: A review </a> and a <a href="/publications/pdfs/elife_2019.pdf" target="_blank">PET study</a><br/>
+Effects of stress on the dopamine system: <a href="/publications/pdfs/biol_2017.pdf" target="_blank">A review </a> and a <a href="/publications/pdfs/elife_2019.pdf" target="_blank">PET study</a><br/>
 <a href="/publications/pdfs/musa_2020.pdf" target="_blank">Cannabis and functional connectivity in psychosis</a><br/>
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a>
 
