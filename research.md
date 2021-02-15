@@ -10,29 +10,39 @@ Relationships between striatal dopamine and <a href="/publications/pdfs/mesolimb
 
 <br/>
 
-<h1> Dopamine and Psychosis </h1>
+<h1> The Pathophysiology of Psychosis </h1>
 
 Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz_2020.pdf" target="_blank">1</a>, <a href="/publications/pdfs/world_psych_2020.pdf" target="_blank">2</a>, <a href="/publications/pdfs/trends_2019.pdf" target="_blank">3</a>, biological, 
+<a href="/publications/pdfs/sczbull_2018.pdf" target="_blank"> Where is striatal dopamine dyfunction greatest in schizophrenia?</a><br/>
+<a href="/publications/pdfs/borgan_2019.pdf" target="_blank"> Glutamate concentrations in first episode psychosis</a><br/>
+<a href="/publications/pdfs/rogdaki_2019.pdf" target="_blank">  Glutamate concentrations in 22q11 deletion syndrome</a><br/>
 
 <br/>
 
 <h1> The Neurobiology of Enviornmental Risk Factors for Psychosis </h1>
-
+<a href="/publications/pdfs/psych_med_2018.pdf" target="_blank"> How amygdala reactivity relates to ethnic minority status and the the social enviornment</a></br>
+<a href="/publications/pdfs/sczres_2018.pdf" target="_blank">Effects of chronic stress on corticostriatal connectivity and salience processing</a></br>
+Effects of stress on the dopamine system: A review </a> and a <a href="/publications/pdfs/elife_2019.pdf" target="_blank">PET study</a><br/>
 <a href="/publications/pdfs/musa_2020.pdf" target="_blank">Cannabis and functional connectivity in psychosis</a><br/>
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a>
+
 
 <br/>
 
 <h1> Treatment Resistance and Response </h1>
 
-Investigating response variability in <a href="/publications/pdfs/ap_hetero_2019.pdf" target="_blank">schizophrenia</a> and <a href="/publications/pdfs/jad_2020.pdf" target="_blank">depression</a>
+Investigating response variability in <a href="/publications/pdfs/ap_hetero_2019.pdf" target="_blank">schizophrenia</a>, <a href="/publications/pdfs/mizuno_2019.pdf" target="_blank">treatment resistant schizophrenia </a>, and <a href="/publications/pdfs/jad_2020.pdf" target="_blank">depression</a><br/>
+<a href="/publications/pdfs/beck_2019.pdf" target="_blank">How common is treatment resistant schizophrenia ?</a><br/>
+<a href="/publications/pdfs/pillinger_2019.pdf" target="_blank"> Effects of a novel compound on glutamate, cerebral blood flow, and functioanl connnectivity in treatment resistant schizophrenia </a><br/>
 <a href="/publications/pdfs/neuropsychopharm_2020.pdf" target="_blank"> Mechanisms of antipsychotic action </a>
 
 <br/>
 
 <h1> Meta Analysis </h1>
 
-<a href="/publications/pdfs/molecpsych_2020.pdf" target="_blank">Variability of brain abnormalities in 22q11 deletion syndrome</a>
-<a href="/publications/pdfs/meyer_sleep_2020.pdf" target="_blank">Sleep disturbance in schizophrenia and bipolar disorder</a>
-<a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a>
+<a href="/publications/pdfs/molecpsych_2020.pdf" target="_blank">Variability of brain abnormalities in 22q11 deletion syndrome</a><br/>
+<a href="/publications/pdfs/meyer_sleep_2020.pdf" target="_blank">Sleep disturbance in schizophrenia and bipolar disorder</a><br/>
+<a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a><br/>
 <a href="/publications/pdfs/beck_2020.pdf" target="_blank">Psychotogenic effects of ketamine </a>
+<a href="/publications/pdfs/lancet_pillinger_2019.pdf" target="_blank">Metabolic effects of antipsychotics
+<a href="/publications/pdfs/borgan_2019b.pdf" target="_blank"> Effect of cannabinoid receptor 1 modulatiors on memory
