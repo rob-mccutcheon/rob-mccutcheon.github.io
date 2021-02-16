@@ -38,7 +38,7 @@ Effects of stress on the dopamine system: <a href="/publications/pdfs/biol_2017.
 <br/>
 
 <h1> Treatment Resistance and Response </h1>
-Using antipsychotic plasma levels to investigate adherence and treatment resistance: <a href="/publications/pdfs/acta_2018.pdf" target="_blank">1</a>, <br/>
+Using antipsychotic plasma levels to investigate adherence and treatment resistance: <a href="/publications/pdfs/acta_2018.pdf" target="_blank">1</a>, <a href="/publications/pdfs/plasma2015.pdf" target="_blank">2</a><br/>
 
 Investigating response variability in:<br/>
 &ensp;<a href="/publications/pdfs/ap_hetero_2019.pdf" target="_blank">Schizophrenia</a><br/>
