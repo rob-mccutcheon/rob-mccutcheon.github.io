@@ -23,14 +23,17 @@ Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz
 <a href="/publications/pdfs/bpsychcnni_2020.pdf" target="_blank">How do spatial patterns of striatal dopamine  shape psychotic symptoms?</a><br/>
 <a href="/publications/pdfs/borgan_2019.pdf" target="_blank"> Glutamate concentrations in first episode psychosis</a><br/>
 <a href="/publications/pdfs/rogdaki_2019.pdf" target="_blank">  Glutamate concentrations in 22q11 deletion syndrome</a><br/>
-<a href="/publications/pdfs/lancet_2017.pdf" target="_blank">PDF.</a>Brain imaging studies of treatment resistant schizophrenia</a><br/>
+<a href="/publications/pdfs/lancet_2017.pdf" target="_blank">Brain imaging studies of treatment resistant schizophrenia</a><br/>
 
 <br/>
 
 <h1> The Neurobiology of Environmental Risk Factors for Psychosis </h1>
 <a href="/publications/pdfs/psych_med_2018.pdf" target="_blank"> How amygdala reactivity relates to ethnic minority status and the the social environment</a><br/>
 <a href="/publications/pdfs/sczres_2018.pdf" target="_blank">Effects of chronic stress on corticostriatal connectivity and salience processing</a><br/>
-Effects of stress on the dopamine system: <a href="/publications/pdfs/biol_2017.pdf" target="_blank">A review </a> and a <a href="/publications/pdfs/elife_2019.pdf" target="_blank">PET study</a><br/>
+Effects of stress on the dopamine system:<br/>
+&ensp;<a href="/publications/pdfs/biol_2017.pdf" target="_blank">A review </a><br/>
+&ensp;<a href="/publications/pdfs/elife_2019.pdf" target="_blank">Effects of dopamine synthesis capacity</a><br/>
+<a href="/publications/pdfs/dahoun_2019.pdf" target="_blank">Effects on dopamine release capacity</a><br/>
 <a href="/publications/pdfs/musa_2020.pdf" target="_blank">Cannabis and functional connectivity in psychosis</a><br/>
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a>
 
