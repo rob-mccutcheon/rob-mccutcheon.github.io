@@ -32,8 +32,8 @@ Overviews of schizophrenia pathophysiology: <a href="/publications/pdfs/jama_scz
 <a href="/publications/pdfs/sczres_2018.pdf" target="_blank">Effects of chronic stress on corticostriatal connectivity and salience processing</a><br/>
 Effects of stress on the dopamine system:<br/>
 &ensp;<a href="/publications/pdfs/biol_2017.pdf" target="_blank">A review </a><br/>
-&ensp;<a href="/publications/pdfs/elife_2019.pdf" target="_blank">Effects of dopamine synthesis capacity</a><br/>
-<a href="/publications/pdfs/dahoun_2019.pdf" target="_blank">Effects on dopamine release capacity</a><br/>
+&ensp;<a href="/publications/pdfs/elife_2019.pdf" target="_blank">Effects on dopamine synthesis capacity</a><br/>
+&ensp;<a href="/publications/pdfs/dahoun_2019.pdf" target="_blank">Effects on dopamine release capacity</a><br/>
 <a href="/publications/pdfs/musa_2020.pdf" target="_blank">Cannabis and functional connectivity in psychosis</a><br/>
 <a href="/publications/pdfs/hindley_thc_meta.pdf" target="_blank">Psychotogenic effects of cannabis </a>
 
@@ -42,7 +42,6 @@ Effects of stress on the dopamine system:<br/>
 
 <h1> Treatment Resistance and Response </h1>
 Using antipsychotic plasma levels to investigate adherence and treatment resistance: <a href="/publications/pdfs/acta_2018.pdf" target="_blank">1</a>, <a href="/publications/pdfs/plasma2015.pdf" target="_blank">2</a><br/>
-
 Investigating response variability in:<br/>
 &ensp;<a href="/publications/pdfs/ap_hetero_2019.pdf" target="_blank">Schizophrenia</a><br/>
 &ensp;<a href="/publications/pdfs/mizuno_2019.pdf" target="_blank">Treatment resistant schizophrenia </a><br/> 
