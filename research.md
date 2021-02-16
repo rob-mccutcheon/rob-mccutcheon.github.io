@@ -6,7 +6,9 @@ permalink: /research/
 
 <h1> Multimodal Neuroimaging </h1>
 
-Relationships between striatal dopamine and <a href="/publications/pdfs/mesolimbic_salience.pdf" target="_blank">resting state connectivity</a>, <a href="/publications/pdfs/lancet_2018.pdf" target="_blank">cortical glutamate in psychosis</a>, <a href="/publications/pdfs/lancet_2018.pdf" target="_blank">cortical glutamate in those at risk of psychosis</a>, cerebral blood flow, <a href="/publications/pdfs/nour_2019.pdf" target="_blank">working memory</a>, <a href="/publications/pdfs/bpsychcnni_2020.pdf" target="_blank"> psychotic symptoms </a>
+Relationships between striatal dopamine and:
+&ensp;<a href="/publications/pdfs/mesolimbic_salience.pdf" target="_blank">resting state connectivity</a></br>
+&ensp;<a href="/publications/pdfs/lancet_2018.pdf" target="_blank">cortical glutamate in psychosis</a>, <a href="/publications/pdfs/lancet_2018.pdf" target="_blank">cortical glutamate in those at risk of psychosis</a>, cerebral blood flow, <a href="/publications/pdfs/nour_2019.pdf" target="_blank">working memory</a>, <a href="/publications/pdfs/bpsychcnni_2020.pdf" target="_blank"> psychotic symptoms </a>
 
 <br/>
 
